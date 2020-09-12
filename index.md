@@ -12,5 +12,5 @@ A founder of an IoT startup based in Bangalore I love to solve build solutions t
 - Device-to-cloud connectivity using LoRa, Wifi and Cellular
 - KiCAD for PCB/Schematic design
 
-I am currently working on [TaxC](github.com/ankitmhn/taxc) which is going to be a self-contained open-source mobile/desktop/web app for simplifying filing GST returns. 
+I am currently working on [TaxC](https://github.com/ankitmhn/taxc) which is going to be a self-contained open-source mobile/desktop/web app for simplifying filing GST returns. 
 
