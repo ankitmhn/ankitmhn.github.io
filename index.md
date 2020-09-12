@@ -2,7 +2,7 @@
 
 Hi, I am **Ankit** and I love to dabble with bits and bytes. 
 
-A founder of an IoT startup based in Bangalore I love to solve build solutions to real-world problems using. My tools of choice are (not necessarily in that order):
+A founder of an IoT startup based in Bangalore I love to solve build solutions to real-world problems. My tools of choice are (not necessarily in that order):
 
 - MERN Stack (Webapps),
 - ElectronJS (Desktop apps),
